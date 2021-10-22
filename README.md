@@ -42,3 +42,5 @@ Baixe esse repositório e com o seu o terminal, entre no diretório
 
 ![logo](https://user-images.githubusercontent.com/77696623/138017958-29bdf96b-f9cb-47c7-9b8e-82907b261883.PNG)
 
+![Capturar](https://user-images.githubusercontent.com/77696623/138373209-c35cb9df-f519-497b-baa5-a243d76cc569.PNG)
+
